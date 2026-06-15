@@ -1,9 +1,10 @@
 # SimFC: A Minimalist Stochastic Soccer Simulation Engine in Pure C
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-%23064F8C.svg?style=flat-square&logo=cmake&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+
+
 ## Overview
 **SimFC** is an open-source, high-performance tactical football simulation engine written entirely in pure C. Designed with a strict focus on algorithmic efficiency and architectural simplicity, the project abstracts the core complexities of a football match into its most fundamental elements: spatial geometry, player positioning, and probabilistic decision-making. 
 
