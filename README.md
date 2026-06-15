@@ -25,5 +25,10 @@ The engine leverages a lightweight rendering backend to map player coordinates a
 ## Media
 
 Below is a preview of the tactical simulation map running in real-time, showcasing player positioning and dynamic ball movement:
-<img width="700" height="508" alt="image" src="https://github.com/user-attachments/assets/69365087-b3c6-4092-b854-611d8b8afaad" />
+
+
+
+<img width="1222" height="889" alt="SIM" src="https://github.com/user-attachments/assets/e3cf896c-a045-4e5c-a4c5-e98b13552810" />
+
+
 
